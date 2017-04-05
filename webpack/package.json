@@ -1,0 +1,14 @@
+{
+  "name": "webpack-example",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "compile": "webpack"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-plugin-root-import": "^5.1.0",
+    "webpack": "^2.3.3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "metseor-example",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.20.0",
+    "meteor-node-stubs": "~0.2.4"
+  },
+  "devDependencies": {
+    "babel-plugin-root-import": "^5.1.0"
+  }
+}
