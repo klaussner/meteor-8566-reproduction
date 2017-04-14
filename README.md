@@ -16,7 +16,7 @@ Actual result: `Uncaught Error: Cannot find module './imports/module.js'`
 
 ```bash
 cd webpack
-npm run compile
+npm i && npm run compile
 node out.js
 ```
 
